@@ -10,6 +10,5 @@ Previously, I worked as a Software Developer at **Finanz-Data GmbH** in Gotha, G
 Feel free to reach out for professional inquiries, collaborations, or opportunities at:
 
 - **Email**: [lukas.pabst.business@outlook.de](mailto:lukas.pabst.business@outlook.de)
-- 
 ---
 Thanks for visiting my profile!
