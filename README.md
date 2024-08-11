@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Lukas Pabst
----
+
 ## 💼 Current Position
 I am currently working as a Full Stack Developer at **Primeo Energy** in Switzerland.
 
@@ -10,9 +10,6 @@ Previously, I worked as a Software Developer at **Finanz-Data GmbH** in Gotha, G
 Feel free to reach out for professional inquiries, collaborations, or opportunities at:
 
 - **Email**: [lukas.pabst.business@outlook.de](mailto:lukas.pabst.business@outlook.de)
-
-I look forward to connecting with you and exploring exciting opportunities!
-
+- 
 ---
-
 Thanks for visiting my profile!
